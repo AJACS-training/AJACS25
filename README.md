@@ -11,7 +11,6 @@
 DBCLSではRA(Research Assistant)としてアルバイトしてくれる大学生、大学院生を募集しております。
 詳しくはtwitterで@bonohu宛につぶやくか（DMも可）、当日スタッフに訊くか、
 下記の問い合わせアドレスに電子メールでご連絡ください！
-</pre>[![AJACS本郷8](http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=AJACS25.png&refer=AJACS25)](http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=AJACS25.pdf&refer=AJACS25)
 
 <dl class="list1" style="padding-left:16px;margin-left:16px">
     <dt>対象</dt>
